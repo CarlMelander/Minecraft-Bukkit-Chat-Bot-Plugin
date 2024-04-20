@@ -2,8 +2,8 @@
 I created this bukkit plugin to interact with an AI Chat-Bot API that I have in development
 
 # Command Functions
-'/Jenny' command starts a session with the chat-bot
-'/jenny end' command ends a session with the chat-bot
+- **/Jenny** starts a session with the chat-bot
+- **/jenny end** ends a session with the chat-bot
 
 While in a chat session, messages are intercepted, and interactions with the chat-bot are presented as whispers to the player
 
