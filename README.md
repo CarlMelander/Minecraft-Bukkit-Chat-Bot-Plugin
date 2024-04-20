@@ -1,6 +1,12 @@
 # Minecraft-Bukkit-Chat-Bot-Plugin
 I created this bukkit plugin to interact with an AI Chat-Bot API that I have in development
 
+# Requirements
+- Maven
+- Java
+- Spigot / Bukkit API jar
+- Bungee API jar
+
 # Command Functions
 - **/Jenny**, starts a session with the chat-bot
 - **/jenny end**, ends a session with the chat-bot
