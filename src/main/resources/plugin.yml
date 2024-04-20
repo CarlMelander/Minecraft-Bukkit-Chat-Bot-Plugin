@@ -1,0 +1,12 @@
+name: MyPlugin
+version: 1.0
+main: test.ChatBotPlugin
+api-version: 1.13
+depend: 
+commands:
+  Jenny:
+    description: "Start Chat"
+    usage: "/Jenny"
+  JennyEnd:
+    description: "End Chat"
+    usage: "/Jenny end"
